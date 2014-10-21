@@ -1,0 +1,14 @@
+#entry-box, #sentence {
+	height: 120px;
+	font-size: 60px;
+}
+
+.puzzle {
+	min-height: 100px;
+	position: absolute;
+}
+
+.text-overlay {
+	z-index: 100;
+	position: absolute;
+}
